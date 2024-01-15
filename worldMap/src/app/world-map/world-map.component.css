@@ -6,3 +6,9 @@ path:hover {
     fill:aqua
     
 }
+
+#wrapper {
+    display: grid;
+    grid-template-columns: 70vw 30vw;
+    gap: 2rem;
+}
